@@ -104,7 +104,7 @@ a {
   display: inline-block;
   text-transform: uppercase;
   background: #A59678;
-  color: #fff;
+  color: rgba(255, 255, 255, .75);
   font-weight: 700;
   font-family: 'Oswald', sans-serif;
   letter-spacing: 1.5px;
